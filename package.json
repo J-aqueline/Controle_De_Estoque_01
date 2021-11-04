@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/J-aqueline/Controle_De_Estoque_01/issues"
   },
-  "homepage": "https://github.com/J-aqueline/Controle_De_Estoque_01#readme"
+  "homepage": "https://github.com/J-aqueline/Controle_De_Estoque_01#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
+  }
 }
